@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 3rd-year Applied Informatics student at UJEP, passionate about backend development and data engineering. Currently seeking an internship where I can use my skills in Python, SQL, and containerization.
+I'm a 3rd-year Applied Informatics student at UJEP, passionate about backend development and data engineering. 
 
 - 🔭 **My main focus:** Building efficient, containerized APIs with Python.
 - 🌱 **My core stack:** **Python**, **FastAPI**, **PostgreSQL**, **MySQL**, **InfluxDB**, and **Docker**.
