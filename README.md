@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**DedovSergei/DedovSergei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year Applied Informatics student at UJEP, passionate about backend development and data engineering. Currently seeking an internship where I can use my skills in Python, SQL, and containerization.
 
-Here are some ideas to get you started:
+- 🔭 **My main focus:** Building efficient, containerized APIs with Python.
+- 🌱 **My core stack:** **Python**, **FastAPI**, **PostgreSQL**, **MySQL**, **InfluxDB**, and **Docker**.
+- 💬 **Ask me about:** My hackathon project for visualizing Czech open data! [See the project details here.](https://github.com/DedovSergei/Hackathon-Open-Data-Visualizer)
+- 📫 **How to reach me:** dedovsergey2003@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Core Technologies
+
+| Backend | Databases | DevOps & Tools |
+| :--- | :--- | :--- |
+| Python | PostgreSQL | Docker |
+| FastAPI | MySQL | Docker Compose |
+| Django | InfluxDB | Git / GitHub |
+| R | MongoDB | Linux / Bash |
+| Node.js | Neo4j | Pandas / Arrow |
