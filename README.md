@@ -1,20 +1,20 @@
-## Hi there 👋
+### Hello there
 
-I'm a 3rd-year Applied Informatics student at UJEP, passionate about backend development and data engineering. 
+I'm a 3rd-year Applied Informatics student at UJEP, passionate about building and deploying containerized backends.
 
-- 🔭 **My main focus:** Building efficient, containerized APIs with Python.
-- 🌱 **My core stack:** **Python**, **FastAPI**, **PostgreSQL**, **MySQL**, **InfluxDB**, and **Docker**.
-- 💬 **Ask me about:** My hackathon project for visualizing Czech open data! [See the project details here.](https://github.com/DedovSergei/Hackathon-Open-Data-Visualizer)
-- 📫 **How to reach me:** dedovsergey2003@gmail.com
+My primary focus is creating fast, reliable APIs with **Python**, using **FastAPI** and **Django**. I have experience connecting them to various databases, from relational (**PostgreSQL**, **MySQL**) to time-series (**InfluxDB**) and NoSQL (**MongoDB**, **Neo4j**). I ship all my work with **Docker**.
+
+Ask me about my hackathon project where I built a FastAPI backend to [visualize Czech open data!](https://github.com/DedovSergei/Hackathon-Open-Data-Visualizer)
 
 ---
 
-### My Core Technologies
+### Core Technologies
 
-| Backend | Databases | DevOps & Tools |
-| :--- | :--- | :--- |
-| Python | PostgreSQL | Docker |
-| FastAPI | MySQL | Docker Compose |
-| Django | InfluxDB | Git / GitHub |
-| R | MongoDB | Linux / Bash |
-| Node.js | Neo4j | Pandas / Arrow |
+#### 🐍 Backend
+`Python` `FastAPI` `Django` `Node.js` `Socket.IO` `R`
+
+#### 🗃️ Databases
+`PostgreSQL` `MySQL` `InfluxDB` `MongoDB` `Neo4j`
+
+#### 🐳 DevOps & Data Tools
+`Docker` `Docker Compose` `Git` `Linux/Bash` `Pandas` `Apache Arrow`
