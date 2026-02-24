@@ -1,18 +1,8 @@
-### Hello there
+3rd-year Applied Informatics student at UJEP, passionate about building and deploying containerized backends.
 
-I'm a 3rd-year Applied Informatics student at UJEP, passionate about building and deploying containerized backends.
+I'm mainly focusing on backend development and systems programming. 
 
-My primary focus is creating fast, reliable APIs with **Python**, using **FastAPI** and **Django**. I have experience connecting them to various databases, from relational (**PostgreSQL**, **MySQL**) to time-series (**InfluxDB**) and NoSQL (**MongoDB**, **Neo4j**). I ship all my work with **Docker**.
-
----
-
-### Core Technologies
-
-#### 🐍 Backend
-`Python` `FastAPI` `Django` `Node.js` `Socket.IO` `R`
-
-#### 🗃️ Databases
-`PostgreSQL` `MySQL` `InfluxDB` `MongoDB` `Neo4j`
-
-#### 🐳 DevOps & Data Tools
-`Docker` `Docker Compose` `Git` `Linux/Bash` `Pandas` `Apache Arrow`
+* **Python & APIs:** FastAPI, Django, Pandas, Apache Arrow. (REST APIs, data pipelines, microservices).
+* **C++ & Systems:** C++, OpenGL. (Memory management, GPU compute shaders, simulations).
+* **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j, InfluxDB. (Relational, NoSQL, Graph, Time-series).
+* **DevOps:** Docker, Docker Compose, Linux/Bash, Git. (Containers, deployments).
