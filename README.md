@@ -1,6 +1,4 @@
-3rd-year Applied Informatics student at UJEP, passionate about building and deploying containerized backends.
-
-I'm mainly focusing on backend development and systems programming. 
+3rd-year Applied Informatics student at UJEP 
 
 * **Python & APIs:** FastAPI, Django, Pandas, Apache Arrow. (REST APIs, data pipelines, microservices).
 * **C++ & Systems:** C++, OpenGL. (Memory management, GPU compute shaders, simulations).
